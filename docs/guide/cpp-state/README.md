@@ -4,8 +4,8 @@ title: Dealing with State in C++
 
 # Dealing with State in C++
 
-Nodes outputs of which depend _solely_ on their inputs in at any point of time
-are cool. They easy to understand, test, and compose. But building a useful
+Nodes outputs of which depend _solely_ on their inputs at any point in time
+are cool. They are easy to understand, test, and compose. But building a useful
 device using only such pure nodes is not realistic. Someone needs to keep state
 along program run time.
 
